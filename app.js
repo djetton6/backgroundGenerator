@@ -2,12 +2,12 @@ var css = document.querySelector("h3");
 var color1 = document.querySelector(".color1");
 var color2 = document.querySelector(".color2");
 
-console.log(css);
-console.log("color1");
-console.log("color2");
-
+//fuction section
 color1.addEventListener("input", function() {
   console.log(color1.value);
-  s;
+});
+
+color2.addEventListener("input", function() {
+  console.log(color2.value);
 });
 //input
