@@ -1,0 +1,19 @@
+{
+  "name": "backgroundgenerator",
+  "version": "1.0.0",
+  "description": "Need help finding a great background for your website? Look no further than the background generator.",
+  "main": "app.js",
+  "scripts": {
+    "build": "browserify app.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djetton6/backgroundGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djetton6/backgroundGenerator/issues"
+  },
+  "homepage": "https://github.com/djetton6/backgroundGenerator#readme"
+}
